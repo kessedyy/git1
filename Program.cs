@@ -16,3 +16,4 @@ int number2 = Convert.ToInt32(Console.ReadLine());
  else
 
   Console.WriteLine("Число B больше числа A");
+  
